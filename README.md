@@ -7,3 +7,4 @@ cheatsheet - xss
 
 [Gaijin-xss](xss/payloads-01.txt)
 
+.
